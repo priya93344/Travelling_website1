@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+    background-image: url("dhua.jpg");
+    font-family: 'Borel', cursive;
+font-family: 'Edu SA Beginner', cursive;
+
+}
+
+
+.reg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+.head{
+    color: #010100;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding: 10px 10px;
+    font-size: 35px;
+}
+
+ .register
+{
+     color:#040000 ;
+     background-color: rgba(245,245,245,0.219);;
+     border: 2px solid white;
+     border-radius: 10px;
+     padding: 20px 40px;
+     font-size: 17px;
+     font-weight: 900;
+   
+}
+.sub a{
+    text-decoration: none;
+    color: #070700;
+    justify-content: space-between;
+    font-size: 25px;
+    margin-left: 20px;
+}
+.sub a:hover{
+    color: #040404;
+    background-color:#EEBD01;
+    box-shadow: 0 0 15px #f7f705,
+    0 0 10px #EEBD01, 0 0 15px #EEBD01,
+    0 0 10px #EEBD01, 0 0 15px #EEBD01;
+    border-radius: 5px;
+}
+ 
